@@ -1,0 +1,147 @@
+
+## EcoStore Data
+
+**E-commerce Name: EcoStore**
+
+**Slogan:** "Embrace Sustainability, Enhance Your World"
+
+**E-commerce Description:** EcoStore is an e-commerce platform dedicated to providing eco-friendly and sustainable products for people committed to a more conscious lifestyle. We believe that it is possible to live sustainably without compromising on quality or comfort.
+
+**EcoStore Policies**
+
+1. Return Policy:
+
+- EcoStore offers a 30-day return policy for all unused products in perfect condition.
+- Return shipping costs are the responsibility of the customer unless the product arrived defective or damaged.
+- Refunds will be processed after inspection of the returned product and may be issued as store credit or a refund to the original payment method, as per customer preference.
+
+2. Privacy Policy:
+
+- We respect your privacy and are committed to protecting your personal information.
+- Information collected during the purchase process, such as name, address, and payment details, is used solely for order processing and communication with customers.
+- We do not share your information with third parties without your consent.
+
+3. Security:
+
+- We use data encryption technology (SSL) to ensure that all payment information is transmitted securely.
+- We maintain strict security measures to protect the customer database and prevent unauthorized access.
+
+4. Sustainability:
+
+- EcoStore is committed to sustainability in all operations.
+- We use recyclable packaging and, whenever possible, ship products with low carbon footprint shipping methods.
+- We strive to minimize waste and reduce our environmental impact as much as possible.
+
+5. Customer Service:
+
+- Our customer service team is available via live chat and email (ecomart@alura.com.br) to assist with questions, concerns, and purchase assistance.
+- We are committed to providing quick and effective service to ensure customer satisfaction.
+
+6. Delivery and Shipping Time:
+
+- We provide estimated delivery times at the time of purchase.
+- We work with reliable carriers to ensure safe and timely delivery.
+- If there are unexpected delays in delivery, we immediately inform customers and seek alternative solutions whenever possible.
+
+7. Social Responsibility:
+
+- EcoStore contributes a percentage of sales to environmental conservation organizations and social causes.
+- We support local and global initiatives that promote environmental protection and social justice.
+
+8. Reviews and Comments:
+
+- We encourage customers to leave reviews and comments about products to help other buyers make informed decisions.
+
+9. Discounts and Promotions:
+
+- "Healthy Eating" category products have a 10% discount using the coupon CUPOM_ECO, valid until 11/25/2023
+- "Healthy Eating" category products have a 15% discount using the coupon CUPOM_ECO10, valid until 10/25/2023
+- "Outdoor Leisure" category products have a 10% discount using the coupon CUPOM_LAZ, valid until 12/25/2023
+- "Sustainable Fashion" category products have a 10% discount using the coupon CUPOM_MOD, valid until 10/25/2023
+EcoStore strives to be a comprehensive platform that offers sustainable products in all categories and supports a conscious lifestyle. We are committed to providing high-quality products that benefit both consumers and the planet.
+
+## Available Products
+
+1. **Sustainable Fashion:** Clothing and accessories made from organic, recycled, and fair-trade materials.
+- Organic cotton T-shirts
+- Jeans made from recycled materials
+- Vegan leather bags
+- Swimwear made from recycled fabrics
+- Bamboo fiber socks
+- Organic linen dresses
+- Recycled polyester jackets
+- Eco-friendly wool sweaters
+- Silk scarves
+- Hemp fabric hats.
+
+2. **Home Products:** Items for an eco-friendly home, including natural cleaning products, sustainable kitchen utensils, and certified wood furniture.
+- Natural multi-purpose detergent
+- Bamboo toothbrush
+- Chemical-free non-stick pans
+- Low-energy LED lamps
+- FSC-certified wooden furniture
+- Biodegradable trash bags
+- Organic cotton bedding
+- Eco-friendly paint
+- Solar-powered garden lights
+
+3. **Natural Beauty:** Cosmetics and personal care products made with natural ingredients and eco-friendly packaging.
+- Organic shampoo and conditioner
+- Handmade natural ingredient soaps
+- Mineral makeup
+- Paraben-free and chemical-free face creams
+- Bamboo hair brushes
+- Natural body lotions
+- Eco-friendly deodorants
+- Organic facial masks
+- Sustainable nail polishes
+- Biodegradable cotton swabs
+
+4. **Green Electronics:** Energy-efficient and recyclable electronics, such as solar panels, solar chargers, and LED lamps.
+- Solar chargers for mobile devices
+- Energy-efficient design laptops
+- Rechargeable Bluetooth headphones
+- Low-energy LED lamps
+- Solar panels for home installation
+- Eco-friendly smart home devices
+- Rechargeable batteries
+- Energy-saving appliances
+- Recycled material phone cases
+- Biodegradable electronic accessories
+
+5. **Sustainable Food:** Organic food, healthy snacks, and local products from sustainable farms.
+
+- Organic foods such as fruits, vegetables, and grains
+- Healthy snacks without artificial ingredients
+- Fair trade and local farm products
+- Reusable water bottles
+- Stainless steel cutlery sets
+- Organic dairy products
+- Sustainable seafood
+- Fair trade coffee and tea 
+- Eco-friendly condiments
+- Biodegradable packaging 
+
+6. **Outdoor Leisure:** Equipment for outdoor activities, such as backpacks, tents, and environmentally friendly camping products.
+
+- Sustainable backpacks made from recycled materials
+- Environmentally friendly camping tents
+- Rechargeable solar lanterns
+- Safe and durable climbing equipment
+- Outdoor activity clothing made from sustainable fabrics
+- Eco-friendly picnic sets
+- Biodegradable utensils
+- Solar-powered cooking devices
+- Sustainable hiking boots
+- Recycled material sleeping bags
+
+7. **Books and Education:** Educational resources on sustainability, as well as books and materials related to the environment.
+- Books on sustainability and environmental conservation
+- Practical guides for a more eco-friendly lifestyle
+- Environmental educational materials for children
+- Environmental documentary DVDs
+- Eco-friendly calendars and recycled paper products
+- Sustainable art supplies 
+- Eco-friendly toys, environmental game sets
+- Recycled material school supplies
+- Biodegradable binders
